@@ -1,6 +1,6 @@
 # Task for Backend Position
 
-It should take you between 2 and 5 hours depending on your experience. We made this task in a way that you'll end up learing how IVRs and Twilio's API works. The test is designed to check if you can integrate and sync data between two apps.
+It should take you between 3 and 5 hours depending on your experience. We made this task in a way that you'll end up learing how IVRs and Twilio's API works. The test is designed to check if you can integrate and sync data between two apps.
 
 First time freelancers looking to build their profiles are encouraged to apply. You need to submit this within 18 hours, you'll be paid after your task completion and code review.
 
