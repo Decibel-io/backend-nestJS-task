@@ -2,7 +2,7 @@
 
 It should take you between 3 and 5 hours depending on your experience. We made this task in a way that you'll end up learing how IVRs and Twilio's API works. The test is designed to check if you can integrate and sync data between two apps.
 
-First time freelancers looking to build their profiles are encouraged to apply. You need to submit this within 18 hours, you'll be paid after your task completion and code review.
+First time freelancers looking to build their profiles are encouraged to apply. You need to submit this within 18 hours, you'll be paid after your task completion and code review. You'll be paid your hourly rate x 5 hours.
 
 If you're not able to submit it in 48 hours and your task doesn't do the required functionality then we'll cancel the contract.
 
