@@ -38,7 +38,9 @@ Please keep the following points in mind:
 
 - Use Typescript
 - Use NestJS - follow best Nest practices
-- Use MongoDB with Mongoose to store call logs, you can also use Supabase and FireStore.
+- Store the call logs model/table in two different databases :
+    1. Non-Relational Database - MongoDB
+    2. Relational Database - Supabase
 
 ### Use case
 
